@@ -1,0 +1,2 @@
+# Admin-Backup-Buddy
+A Windows PC robocopy batch file. This is an interactive batch file for IT admins (or home users) that backs up a user's profile. You designate whether you are saving to a network volume or to an attached disk. It will go through and avoid various Cloud services, assuming that you will be able to sync them back down, later. Useful not just for general backups, but because it grabs AppData, it also will grab important configuration data.
